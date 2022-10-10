@@ -47,3 +47,41 @@ Day 4 Programs
 8 - Roman to Integer
 9 - Year Divided Into Four Seasons
 10 - Scramble String
+
+Day 5 Programs
+1 - Word and Spaces
+2 - Organization
+3 - Perfect Square Numbers
+4 - Little Robert
+5 - Peak Element
+6 - Triangular Array
+7 - Longest Substring
+8 - Matrix of Size 
+9 - Function Shuffle
+10 - Reverse Words in a String
+
+Day 6 Programs
+1 - Pythagorean Triplet
+2 - Print Factorial
+3 - Print the Pattern
+4 - First n Perfect Numbers
+5 - Right Angle Pattern
+6 - Decimal Pattern
+7 - Mean & Mode & Median
+8 - Composite Numbers
+9 - Employees on New Year
+10 - LCM & GCD Of n Numbers
+11 - Calculate Program
+12 - Count all Prime and Composite Numbers
+13 - Eligible for Vote or Not
+14 - % Pattern
+15 - Given Number is Perfect Number or Not Pattern
+16 - Numbers Pattern
+17 - Factorial of n
+18 - Mth Maximum Number and Nth Minimum Number
+19 - Student Marks
+20 - Composite Numbers B/w a and b
+21 - Numbers Pattern
+22 - Binary to Decimal
+23 - Factors for n
+24 - Swap Two Numbers
